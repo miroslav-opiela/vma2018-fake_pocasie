@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FakePocasie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="cities">
+        <item>Košice</item>
+        <item>Prešov</item>
+        <item>Bardejov</item>
+        <item>Michalovce</item>
+    </array>
+</resources>
